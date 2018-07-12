@@ -1,5 +1,5 @@
 # Cache
-基于tornado的多线程缓存
+Cache是基于tornado的多线程缓存插件
 
 *类似于redis的key,value形式的线程化数据存储功能,使用方便*
 
@@ -8,3 +8,8 @@
 
 * Cache().setex(k, v, timeout)
 * Cache().get(k)
+
+
+
+#### 启动项目(查看demo)
+* 执行命令: python save.py
