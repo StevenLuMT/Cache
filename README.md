@@ -12,4 +12,4 @@ Cache是基于python的多线程缓存插件
 
 
 #### 启动项目(查看demo)
-* 执行命令: python save.py
+* 执行命令: python demo.py
