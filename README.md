@@ -1,5 +1,5 @@
 # Cache
-Cache是基于tornado的多线程缓存插件
+Cache是基于python的多线程缓存插件
 
 *类似于redis的key,value形式的线程化数据存储功能,使用方便*
 
