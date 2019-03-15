@@ -1,7 +1,7 @@
 # Cache
 Cache是基于python的多线程缓存插件
 
-*类似于redis的key,value形式的线程化数据存储功能,使用方便*
+*基于key,value形式的内内存形缓存,使用方便*
 
 #### 使用方法
 
